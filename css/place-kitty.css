@@ -1,4 +1,5 @@
 /* Select the image with a class of kitty-1 */
+Document.getElementsByClassName()
 
 /*__write_selector_here__*/ {
   position: absolute;
